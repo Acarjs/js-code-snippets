@@ -6,7 +6,7 @@ function double(x) {
   return x * 2;
 }
 
-const newNumbersAngelaStyle = numbers.map(double);
+const newNumbers = numbers.map(double);
 console.log(newNumbersAngelaStyle); //[6, 112, 4, 96, 10]
 
 //Older version
