@@ -21,4 +21,4 @@ let newNumbers = numbers.reduce((accumulator, currentNumber) => {
 console.log(newNumbers);
 
 //accumulator = equivalent to previous number
-//currentNumber will 3,56,2,48,5
+//currentNumber will be 3,56,2,48,5
