@@ -7,4 +7,4 @@ const newNumber = numbers.find(num => num > 10);
 console.log(newNumber); //56(only first item!!!)
 
 const newNumbers = numbers.findIndex(no => no > 10);
-console.log(newNumbers); // 1(only fist's item index!!!)
+console.log(newNumbers); // 1(only first's item index!!!)
