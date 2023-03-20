@@ -1,1 +1,1 @@
-# filter-find-map-reduce-snippets
+# js code snippets
